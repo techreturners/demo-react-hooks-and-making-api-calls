@@ -6,9 +6,11 @@ This project has starter code to demonstrate the:
 
 - useContext() hook - two components, child1 and child2. You will demonstrate prop drilling by passing props from App, through child1 to child2. Then you will show how to avoid this "prop drilling" by creating some React context and wrapping child1 in this. 
 
-- useEffect() hook - you will make an API call using Axios and useEffect then push the response into state your apps state 
+- useEffect() hook - you will make an API call using Axios and useEffect then push the response into your apps state 
 
 The instructions for the above demos can be found in Confluence: https://closconsultancy.atlassian.net/wiki/spaces/YRTT/pages/2834006060/React+Hooks+Making+API+Calls+-+Session+Plan
+
+Note: Axios is already installed (but you may want to show installation for demo purposes)
 
 ## Available Scripts
 
