@@ -13,10 +13,8 @@ function App() {
     <div className="App">
       <h1>React Hooks and Making API Calls</h1>
 
-
       {/* To demonstrate useEffect */}
       <Posts />
-
 
       {/* To demonstrate useContext */}
       <Context.Provider value={value}>

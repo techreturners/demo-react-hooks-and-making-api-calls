@@ -17,7 +17,7 @@ function Posts() {
 
     return (
         <>
-            {posts.map((post) => <p key={post.id}> {post.title}</p>)}
+            {posts.map(post => <p key={post.id}> {post.title}</p>)}
         </>
     )
 }
